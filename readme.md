@@ -4,7 +4,7 @@ A **WhatsApp-like real-time chat application** built using **Django Channels and
 
 This project enables seamless **real-time messaging**, online status tracking, and group chats using Django’s asynchronous capabilities.
 
-## 🚀 Features
+## Features
 
 ✅ Real-time messaging with WebSocket-based communication  
 ✅ User authentication and online status indicator  
